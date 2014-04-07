@@ -1,0 +1,10 @@
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\Data.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\Data.pdb
+D:\aBc\BookStore\trunk\Project\BookStore\Data\obj\Debug\Data.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Data\obj\Debug\Data.pdb
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\Data.dll.config
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\EntityFramework.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\EntityFramework.xml
+D:\aBc\BookStore\trunk\Project\BookStore\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\aBc\BookStore\trunk\Project\BookStore\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\bin\Debug\Bussiness.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\bin\Debug\Bussiness.pdb
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\obj\Debug\Bussiness.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\obj\Debug\Bussiness.pdb
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\bin\Debug\Data.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\bin\Debug\Data.pdb
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\bin\Debug\EntityFramework.dll
+D:\aBc\BookStore\trunk\Project\BookStore\Bussiness\bin\Debug\EntityFramework.xml
